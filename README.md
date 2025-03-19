@@ -73,7 +73,9 @@ build  install  log  src
 
 คำสั่ง $ ros2 pkg list จำแสดงรายการ package ที่พร้อมใช้ ทั้งจาก overlay และ underlay
 
-## ทดสอบการใช้งาน ros2 ด้วย simple_pubisher
+----------------------
+## ทดสอบการใช้งาน ros2 ด้วย simple_pubisher \
+Lec#24 <py> simple_publisher</py> 
 1. ให้ copy ไฟล์ simple_publisher.py  
 1. copy ไฟล์ package.xml
 1. copy ไฟล์ setup.py

@@ -76,6 +76,8 @@ build  install  log  src
 ----------------------
 ## ทดสอบการใช้งาน ros2 ด้วย simple_pubisher \
 Lec#24 <py> simple_publisher</py> 
+<img title="a title" alt="Alt text" src="img/vscode_simple_publiser.png">
+
 1. ให้ copy ไฟล์ simple_publisher.py  
 1. copy ไฟล์ package.xml
 1. copy ไฟล์ setup.py
